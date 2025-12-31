@@ -26,7 +26,7 @@
 
 <div align="center">
 
-I am a frontend developer passionate about building clean, responsive, and user-focused web applications. I primarily work with React, Next.js, and Tailwind CSS, and I have experience building real-world projects from scratch. I enjoy turning ideas into functional interfaces and continuously improving my skills through hands-on development.
+I am a passionate **Frontend Developer** from **Bangladesh** 🇧🇩 dedicated to building clean, responsive, and user-friendly web applications. I specialize in **React.js**, **Next.js**, and **Tailwind CSS**, with hands-on experience in full-stack development using **Node.js**, **Express.js**, and **MongoDB**. I enjoy solving real-world problems through code and continuously learning new technologies to improve my craft.
 
 </div>
 
