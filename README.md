@@ -51,18 +51,27 @@ I enjoy turning ideas into functional interfaces and continuously improving my s
 
 ---
 
+<!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbmugdho&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbmugdho&theme=tokyonight" />
-</p>
+<!-- Total contributions, commits, stars, followers -->
+[![Md Montasir Billah Mugdho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmugdho)](https://github.com/mbmugdho)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbmugdho&layout=compact&theme=tokyonight" />
-</p>
+<!-- Hide contributions & PRs if you want a cleaner view -->
+![Md Montasir Billah Mugdho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmugdho&hide=contribs,prs)
+
+<!-- Review & discussion stats -->
+![Md Montasir Billah Mugdho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmugdho&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<!-- Total commits in a specific year -->
+![Md Montasir Billah Mugdho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmugdho&commits_year=2025)
+
+<!-- Stats with icons and a different theme -->
+![Md Montasir Billah Mugdho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbmugdho&show_icons=true&theme=radical)
+
+
+
+
 
 
 
