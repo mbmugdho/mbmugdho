@@ -38,10 +38,15 @@ I am a passionate **Frontend Developer** from **Bangladesh** 🇧🇩 dedicated 
 
 ### 🌱 What I'm Up To
 
-- 🔭 Exploring **Next.js** and modern React patterns  
 - 🛠️ Building production-ready web applications  
 - 🎨 Improving UI/UX and frontend performance  
-- 📖 Learning **TypeScript** for type-safe development
+- 📖 Learning **TypeScript** for type-safe development  
+
+#### 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs" alt="Currently Learning" />
+</p>
 
 ---
 
@@ -68,29 +73,60 @@ I am a passionate **Frontend Developer** from **Bangladesh** 🇧🇩 dedicated 
 
 ---
 
+
+
 ## 🚀 Featured Projects
 
+### 🏠 HomeHero — Home Services Platform
+
 <div align="center">
+  <a href="https://homehero-org.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-1DB954?style=for-the-badge" />
+  </a>
+  <!-- Add repo link when ready -->
+  <!--
+  <a href="https://github.com/mbmugdho/HOMEHERO_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  -->
+</div>
 
-### 🏠 HomeHero
-Responsive home services web app with modern UI and smooth UX.
+**Highlights:**
+- 🧭 Clean, responsive UI for browsing and booking home services
+- ⚡ Optimized for performance and fast page loads
+- 🎨 Built with modern frontend patterns and reusable components
 
-🔗 
-<a href="https://homehero-org.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-HomeHero-1DB954?style=for-the-badge" alt="HomeHero Live"/>
-</a>
+**Tech Stack:**
+<p>
+  <!-- Replace icons with the actual stack you used -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js" />
+</p>
 
 ---
 
-### 💼 AssetVerse
-Digital asset management platform built with a focus on usability and clean design.
+### 💼 AssetVerse — Digital Asset Management
 
-🔗 
-<a href="https://assetverse.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-AssetVerse-1DB954?style=for-the-badge" alt="AssetVerse Live"/>
-</a>
-
+<div align="center">
+  <a href="https://assetverse.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-1DB954?style=for-the-badge" />
+  </a>
+  <!--
+  <a href="https://github.com/mbmugdho/ASSETVERSE_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  -->
 </div>
+
+**Highlights:**
+- 📂 Organized interface for browsing and managing digital assets
+- 🔍 Search / filter focused UX for quick access
+- 📱 Fully responsive layout for desktop & mobile
+
+**Tech Stack:**
+<p>
+  <!-- Replace with correct tech: nextjs? node? etc. -->
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" />
+</p>
 
 ---
 ## 🏆 Achievements
@@ -167,6 +203,9 @@ Digital asset management platform built with a focus on usability and clean desi
 ## 🔗 Connect With Me
 
 <p align="center">
+    <a href="https://montasirbillah.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/md-montasir-billah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -176,8 +215,11 @@ Digital asset management platform built with a focus on usability and clean desi
   <a href="https://web.facebook.com/mugdho7674" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:mdmontasirbillah5@gmail.com">
+  <a href="mailto:mdmontasirbillahmugdho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+      <a href="https://drive.google.com/file/d/14R4_kHuOVhi66zKydRhnwlEhues64hjA/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
