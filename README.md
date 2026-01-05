@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0c1445,100:283593&height=140&section=header&text=Md%20Montasir%20Billah%20Mugdho&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20|%20Bangladesh&descSize=16&descAlignY=75&descColor=64b5f6" />
@@ -27,6 +26,11 @@
 <div align="center">
 
 I am a passionate **Frontend Developer** from **Bangladesh** 🇧🇩 dedicated to building clean, responsive, and user-friendly web applications. I specialize in **React.js**, **Next.js**, and **Tailwind CSS**, with hands-on experience in full-stack development using **Node.js**, **Express.js**, and **MongoDB**. I enjoy solving real-world problems through code and continuously learning new technologies to improve my craft.
+<p align="center">
+  <a href="https://montasirbillah.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-montasirbillah.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 </div>
 
@@ -63,6 +67,32 @@ I am a passionate **Frontend Developer** from **Bangladesh** 🇧🇩 dedicated 
 </div>
 
 ---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🏠 HomeHero
+Responsive home services web app with modern UI and smooth UX.
+
+🔗 
+<a href="https://homehero-org.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-HomeHero-1DB954?style=for-the-badge" alt="HomeHero Live"/>
+</a>
+
+---
+
+### 💼 AssetVerse
+Digital asset management platform built with a focus on usability and clean design.
+
+🔗 
+<a href="https://assetverse.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-AssetVerse-1DB954?style=for-the-badge" alt="AssetVerse Live"/>
+</a>
+
+</div>
+
+---
 ## 🏆 Achievements
 
 <p align="center">
@@ -87,6 +117,50 @@ I am a passionate **Frontend Developer** from **Bangladesh** 🇧🇩 dedicated 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbmugdho&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
+---
+
+## 🎓 Education
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓-Graduate-blue?style=for-the-badge"/>
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/📚-Degree-1a237e?style=flat-square"/>
+    </td>
+    <td>
+      <strong>Bachelor of Business Administration (BBA)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📖-Major-283593?style=flat-square"/>
+    </td>
+    <td>
+      <strong>Management</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏛️-University-0c1445?style=flat-square"/>
+    </td>
+    <td>
+      <strong>National University, Bangladesh</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📅-Status-green?style=flat-square"/>
+    </td>
+    <td>
+      <strong>Graduate ✅</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -106,6 +180,31 @@ I am a passionate **Frontend Developer** from **Bangladesh** 🇧🇩 dedicated 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+## 📬 Contact Me
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📧_Email-mdmontasirbillahmugdho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📱_Phone-+880_1631_371105-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Available%20for-Freelance%20Work-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Response%20Time-Within%2024%20Hours-blue?style=for-the-badge"/>
+
+</div>
 
 ---
 
